@@ -1,3 +1,3 @@
 # hello-word
 Just another repository
-this just a test 
+this is just a test 
